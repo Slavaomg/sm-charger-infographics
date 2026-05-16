@@ -1,0 +1,8 @@
+output/
+templates/
+fonts/
+.DS_Store
+*.py
+*.py.bak
+*.xlsx
+*.log
